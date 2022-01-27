@@ -10,7 +10,7 @@ def copress(n):
     anser=""
     for i in k:
         anser+="".join(str(j) for j in i)
-    return "".join((anser))
+    return "".join(sorted(anser))
 
 n=input()
 while True:
