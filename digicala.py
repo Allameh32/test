@@ -15,4 +15,7 @@ def copress(n):
 n=input()
 while True:
     com=copress(n)
- 
+print("888888888888888888888")
+print("888888888888888888888")
+print("888888888888888888888")
+print("888888888888888888888")
