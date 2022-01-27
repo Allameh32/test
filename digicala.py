@@ -15,7 +15,4 @@ def copress(n):
 n=input()
 while True:
     com=copress(n)
-    if com==n:
-        break
-    else:
-        n=com
+ 
